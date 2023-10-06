@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ticketing Apps</string>
+    <string name="nama">Nama</string>
+    <string name="umur">Umur</string>
+    <string name="menikah">Menikah</string>
+    <string name="alamat">Alamat</string>
+    <string name="gaji">Gaji</string>
+    <string name="bekerja">Bekerja</string>
+    <string name="kirim_data_ke_activity_kedua">Kirim Data ke Activity Kedua</string>
 </resources>
